@@ -14,3 +14,10 @@ it has all following inforamtion about me-
 TECHNOLOGY USED-
 html
 css
+
+LINKS-
+https://github.com/vikezme/Updated-Portfolio-1.git
+https://vikezme.github.io/Updated-Portfolio-1/
+
+CONTACT INFO-
+vikezme@gmail.com
